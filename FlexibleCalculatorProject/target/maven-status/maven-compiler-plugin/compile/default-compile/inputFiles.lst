@@ -1,0 +1,13 @@
+/Users/lolita/Documents/lolitaDoc/2023/tcr/vendor/ebayApr25/FlexibleCalculatorProject/src/main/java/com/ebay/flexiblecalculator/service/strategy/AddOperation.java
+/Users/lolita/Documents/lolitaDoc/2023/tcr/vendor/ebayApr25/FlexibleCalculatorProject/src/main/java/com/ebay/flexiblecalculator/payload/ChainedOperationRequest.java
+/Users/lolita/Documents/lolitaDoc/2023/tcr/vendor/ebayApr25/FlexibleCalculatorProject/src/main/java/com/ebay/flexiblecalculator/FlexibleCalculatorApplication.java
+/Users/lolita/Documents/lolitaDoc/2023/tcr/vendor/ebayApr25/FlexibleCalculatorProject/src/main/java/com/ebay/flexiblecalculator/service/CalculatorService.java
+/Users/lolita/Documents/lolitaDoc/2023/tcr/vendor/ebayApr25/FlexibleCalculatorProject/src/main/java/com/ebay/flexiblecalculator/service/strategy/SubtractOperation.java
+/Users/lolita/Documents/lolitaDoc/2023/tcr/vendor/ebayApr25/FlexibleCalculatorProject/src/main/java/com/ebay/flexiblecalculator/payload/OperationRequest.java
+/Users/lolita/Documents/lolitaDoc/2023/tcr/vendor/ebayApr25/FlexibleCalculatorProject/src/main/java/com/ebay/flexiblecalculator/controller/CalculatorController.java
+/Users/lolita/Documents/lolitaDoc/2023/tcr/vendor/ebayApr25/FlexibleCalculatorProject/src/main/java/com/ebay/flexiblecalculator/service/strategy/DivideOperation.java
+/Users/lolita/Documents/lolitaDoc/2023/tcr/vendor/ebayApr25/FlexibleCalculatorProject/src/main/java/com/ebay/flexiblecalculator/exception/GlobalExceptionHandler.java
+/Users/lolita/Documents/lolitaDoc/2023/tcr/vendor/ebayApr25/FlexibleCalculatorProject/src/main/java/com/ebay/flexiblecalculator/service/strategy/MultiplyOperation.java
+/Users/lolita/Documents/lolitaDoc/2023/tcr/vendor/ebayApr25/FlexibleCalculatorProject/src/main/java/com/ebay/flexiblecalculator/service/strategy/OperationStrategy.java
+/Users/lolita/Documents/lolitaDoc/2023/tcr/vendor/ebayApr25/FlexibleCalculatorProject/src/main/java/com/ebay/flexiblecalculator/exception/UnsupportedOperationException.java
+/Users/lolita/Documents/lolitaDoc/2023/tcr/vendor/ebayApr25/FlexibleCalculatorProject/src/main/java/com/ebay/flexiblecalculator/model/OperationType.java
